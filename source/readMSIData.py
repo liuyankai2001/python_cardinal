@@ -47,3 +47,4 @@ def Deprecated(old, new):
 
 def normalizePath(file, mustWork, *args):
     pass
+
